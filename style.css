@@ -205,9 +205,6 @@ header{
 .BlockE:hover{
     opacity: 0.05;
 }
-.ifr{
-    pointer-events:none;
-}
 .gnav h1{
     font-size: 30px;
     transition: 3s;
